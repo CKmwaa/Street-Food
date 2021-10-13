@@ -1,0 +1,119 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  h4{
+    background-color: forestgreen;
+    width: 100px;
+    height: 20px;
+    padding: 20px;
+    border: 1px;
+    border-radius: 25%;
+  }
+  
+  p.ord{
+    width: 300px;
+    height: 100px;
+    padding: 50px;
+    border: 1px
+  }
+  .column{
+    padding-left: 120px;
+  }
+  .row{
+    display: flex;
+  }
+  .column{
+    flex: 50%;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+   
+  
+    text-align: center;
+    font-size: 30px;
+  }
+  .burger{
+    background-color: #eaf3e4;
+  
+  }
+  .first{
+    background-color: rgb(163, 161, 161);
+  }
+  .secondLast{
+  
+  
+  background-color:#FFD77C;
+  height:450px;
+  text-align:center;
+  font-size:20px;
+  }  
+  #mybutton{
+    border-radius: 20px;
+    padding: 10px;
+    width:100px; 
+    background: green;
+    color:white;
+  }
+  #email{
+    border-radius: 20px;
+    padding: 10px;
+    width:200px;
+  }
+  .footer{
+  background-color: #C9ECB5;
+  height:200px;
+  
+  }
+  #column2{
+  
+  
+    margin-left:600px;
+    margin-top:-150px;
+    font-size: 20px;
+  }
+  
+  #column3{
+    margin-left:1300px;
+    margin-top:-100px;
+    font-size: 20px;
+  }
+  
+  #end2{
+    float:right;
+    margin-top:-100px;
+    font-size:25px;
+    margin-right:20px;
+  }
+  
+  
+  #end1 button{
+    float:right;
+    margin-top:-40px;
+    background:green;
+    color:white;
+    margin-right:20px;
+  
+  }
+  
