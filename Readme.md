@@ -26,16 +26,16 @@
 
 * Click to your browser
 
-* Enter the to the website and click
+* Enter the link to the website and click enter button
 
 * Make your orders conviniently
 
 
 ### Technology used
 
-* HTML
+* HTML - used to the website structure
 
-* CSS
+* CSS - used to style the website
 
 
 Copyright (c) [2021] [Caleb Mwangi]
