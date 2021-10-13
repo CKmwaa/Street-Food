@@ -1,5 +1,5 @@
 ##### By Caleb Mwangi 
-### It is a description of my resume.
+### It is a description of my Website.
 ​
 ## Table of Content
 ​
@@ -26,7 +26,7 @@
 
 * Click to your browser
 
-* Enter the URL to the website and click
+* Enter the to the website and click
 
 * Make your orders conviniently
 
