@@ -48,7 +48,7 @@ Permission is hereby granted, free of charge, to any person willing to access th
 Caleb Mwangi
 
 Click to the site
-[click Here]https://ckmwaa.github.io/Street-Food-Website/)
+[click Here]https://https://ckmwaa.github.io/Street-Food//)
 
 License
 
